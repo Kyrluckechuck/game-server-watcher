@@ -28,7 +28,7 @@
     "axios": "^1.6.5",
     "discord.js": "^14.12.1",
     "dotenv": "^16.3.2",
-    "gamedig": "^5.1.3",
+    "gamedig" : "git://github.com:gamedig/node-gamedig.git#d2397b67e7d9b8221fab391649a5e93208ca0584",
     "grammy": "^1.20.3",
     "lowdb": "^6.1.1",
     "mustache": "^4.2.0",
