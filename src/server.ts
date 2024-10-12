@@ -4,6 +4,7 @@ import crypto from 'node:crypto';
 import { createServer } from 'node:http';
 import { URL } from 'node:url';
 import { games, protocols } from 'gamedig';
+
 import 'dotenv/config';
 import { GameServerConfig, readConfig, updateConfig, Watcher } from './watcher.js';
 import { fileURLToPath } from 'node:url';
